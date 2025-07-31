@@ -1,0 +1,2 @@
+# The-Evaluation-and-Impact-of-Training-Participation-on-Workload-Duration-Using-Causal-Inference
+this study focuses on adopting multi-model approach, causal inference, predictive ML, time series Auto-Regressive Integrated Moving Average (ARIMA) and XAI in the evaluation of causal relationships between participation and workload duration and the prediction on some U21 and U23 soccer players for the 2024-2025 session. 
